@@ -20,7 +20,7 @@
 
 ### About Me
 
-<img align="right" width="40%" src="https://github-stats-extended.vercel.app/api?username=shadow-x78&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=666666&ring_color=CC0000&custom_title=GitHub+Stats&count_private=true&include_all_commits=true&v=2"/>
+<img align="right" width="40%" src="https://github-stats-extended.vercel.app/api?username=shadow-x78&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=666666&ring_color=CC0000&custom_title=GitHub+Stats&count_private=true&include_all_commits=true&v=1"/>
 
 I'm a Full-Stack Developer and the founder of **[RED SHADOWS | RS](https://github.com/red-shadows-rs)**.
 I design and ship complete software products — from pixel to server — with a focus on clean architecture, real-world automation, and scalable systems that just work.
