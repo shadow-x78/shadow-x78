@@ -23,16 +23,16 @@
 <img align="right" width="40%" src="https://raw.githubusercontent.com/shadow-x78/shadow-x78/main/github-metrics.svg" />
 
 I'm a Full-Stack Developer and the founder of **[RED SHADOWS | RS](https://github.com/red-shadows-rs)**.
-I design and ship complete software products — from pixel to server — with a focus on clean architecture, real-world automation, and scalable systems that just work.
+I design and ship complete software products from pixel to server, focusing on clean architecture, real-world automation, and scalable systems that just work.
 
-- 🌐 **Web Development** — React, Next.js, Node.js, Express, PHP
-- 📱 **Mobile & Desktop** — Flutter & Dart for Android and iOS, Electron for cross-platform desktop
-- 🔌 **API & Integrations** — RESTful APIs, OAuth 2.0, third-party services
-- 🛒 **Shopify Ecosystem** — Custom apps, Theme Extensions, Polaris
-- 🤖 **Bots, AI & Automation** — Telegram, Discord, WhatsApp bots, business workflows, MCP (Model Context Protocol)
-- 📞 **Telecom & IVR** — Cisco UCCX call flow design & scripting
-- 🖥️ **DevOps** — Linux VPS, Docker, Nginx, server infrastructure
-- 🗄️ **Databases** — MySQL, MongoDB, PostgreSQL
+- 🌐 **Web Development:** React, Next.js, Node.js, Express, PHP
+- 📱 **Mobile & Desktop:** Flutter & Dart for Android and iOS, Electron for cross-platform desktop
+- 🔌 **API & Integrations:** RESTful APIs, OAuth 2.0, third-party services
+- 🛒 **Shopify Ecosystem:** Custom apps, Theme Extensions, Polaris
+- 🤖 **Bots, AI & Automation:** Telegram, Discord, WhatsApp bots, business workflows, MCP (Model Context Protocol)
+- 📞 **Telecom & IVR:** Cisco UCCX call flow design & scripting
+- 🖥️ **DevOps:** Linux VPS, Docker, Nginx, server infrastructure
+- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL
 
 <br clear="right"/>
 
