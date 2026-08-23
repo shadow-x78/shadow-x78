@@ -1,11 +1,13 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -13,4 +15,4 @@ jobs:
           user: shadow-x78
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Cairo
+          config_timezone: Asia/Riyadh
