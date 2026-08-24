@@ -14,7 +14,7 @@ jobs:
         
       - name: Download Stats Card
         run: |
-          curl -s "https://github-stats-extended.vercel.app/api?username=shadow-x78&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=666666&ring_color=CC0000&custom_title=GitHub+Stats&count_private=true&include_all_commits=true" -o github-stats.svg
+          curl -s "https://github-stats-extended.vercel.app/api?username=shadow-x78&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&icon_color=CC0000&text_color=666666&ring_color=CC0000&custom_title=GitHub+Stats&count_private=true&include_all_commits=true&v=${{ github.run_number }}" -o github-stats.svg
           
       - name: Commit and Push
         run: |
