@@ -21,7 +21,7 @@ jobs:
           curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=shadow-x78&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=666666&custom_title=Most+Used+Languages&card_width=800&v=${{ github.run_number }}" -o github-langs.svg
 
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: ashutosh00710/github-readme-activity-graph@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shadow-x78
