@@ -11,9 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/576070910638030889)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-CC0000?style=flat-square&logo=maildotru&logoColor=white)](mailto:shadow-x7@red-shadows-rs.com)
-&nbsp;
-[![PayPal](https://img.shields.io/badge/Support-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/shadowxx78)
-
 </div>
 
 ---
