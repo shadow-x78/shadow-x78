@@ -88,16 +88,8 @@ I design and ship complete software products from pixel to server, focusing on c
 
 <img width="95%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shadow-x78&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=666666&custom_title=Most+Used+Languages&card_width=800"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shadow-x78&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=666666&line=CC0000&point=CC0000&area=true&area_color=1a0000&custom_title=Contribution+Activity"/>
-
 </div>
 
 ---
-
-<div align="center">
-
-### `</ Build it right. Ship it clean. Let the work speak. >`
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:0a0a0a&height=100&section=footer" width="100%"/>
